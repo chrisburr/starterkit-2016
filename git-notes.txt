@@ -1,0 +1,2 @@
+To make a git repositry run:
+git init SOME_FOLDER
