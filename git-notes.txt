@@ -1,12 +1,12 @@
-To make a git repositry run:
+## To make a git repositry run:
 `git init SOMEFOLDER`
 
-To add a new file and commit it to the respository
+## To add a new file and commit it to the respository
 `git add FILENAME`
 `git commit -m "Some awesome message"`
 
-To send the data somewhere safe
+## To send the data somewhere safe
 `git push`
 
-To download a repository
+## To download a repository
 `git clone URL_FROM_GITHUB`
