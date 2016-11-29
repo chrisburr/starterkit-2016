@@ -7,3 +7,6 @@ git commit -m "Some awesome message"
 
 To send the data somewhere safe
 git push
+
+To download a repository
+git clone URL_FROM_GITHUB
