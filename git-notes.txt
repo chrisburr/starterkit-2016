@@ -4,3 +4,6 @@ git init SOMEFOLDER
 To add a new file and commit it to the respository
 git add FILENAME
 git commit -m "Some awesome message"
+
+To send the data somewhere safe
+git push
