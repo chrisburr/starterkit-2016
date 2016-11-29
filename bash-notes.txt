@@ -1,0 +1,4 @@
+I learnt about:
+ - head
+ - tail
+ - cat
